@@ -1,0 +1,4 @@
+﻿volt,cluster_index,cluster_id,cluster_label,cluster_size
+220,0,220kV-C1,,31
+220,1,220kV-C2,,3
+220,2,220kV-C3,,30
